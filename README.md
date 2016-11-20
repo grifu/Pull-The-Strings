@@ -81,6 +81,11 @@ osc.combine (combine several OSC messages into one, it allows message syncincing
 osc.expand (expands an OSC message into seperated out nodes, it allows to inspect the data types and choose the address)
 osc.port.in (opens port for incoming OSC data)
 osc.port.out (opens port for sending)
+math.dot.vec (math operations: dot between two vectors)
+osc.rename (renames the address of the message)
+osc.split (splits messages)
+filter.data (applies signal transformations, noise reduction)
+timeline.number (a time line for animation that returns a float value)
 print (for debugging, it prints in the interface the incoming messages)
 show.plot (makes a plot from the values)
 LeapMotion support (only for the 0.321 MAC version)
@@ -89,6 +94,18 @@ LeapMotion support (only for the 0.321 MAC version)
 
  - Alpha 003 (March 5th 2016) Mac OSX
  - Alpha 003 (Jully 8th 2016) Windows
+ - Alpha 006 (November 2016) Mac OSX
+
+## Whats new in 0.6
+- new operator (math.dot.vec)
+- new operator (osc.rename)
+- new operator (osc.split)
+- new operator (filter.data)
+- new operator (timeline.number)
+- NOT included because of library error: First Wiimote implementation (very experimental)\
+- osc.port.out now is active by default
+- new maping features included in different operators
+- Pinch for leapmotion
 
 ## Support
 
@@ -97,7 +114,6 @@ LeapMotion support (only for the 0.321 MAC version)
 
 ## Other features
 Pull The Strings as other operators that are not yet avaiable such as:
-Timelines
 LeapMotion support for the Windows version
 Wiimote support
 Math operations
