@@ -107,6 +107,13 @@ LeapMotion support (only for the 0.321 MAC version)
 - new maping features included in different operators
 - Pinch for leapmotion
 
+## Whats new in 0.627
+- Retrieve local IP (press the shortkey "i")
+- OSC.Port.IN and timeline.number are initalized on start
+- Keep ON is now turned on by default
+- Added a Scrollbar in the operator menu
+- OSC address tracer in the OSC.Port.IN
+
 ## Support
 
 ![Support](http://www.virtualmarionette.grifu.com)
