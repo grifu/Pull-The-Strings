@@ -95,6 +95,7 @@ LeapMotion support (only for the 0.321 MAC version)
  - Alpha 003 (March 5th 2016) Mac OSX
  - Alpha 003 (Jully 8th 2016) Windows
  - Alpha 006 (November 2016) Mac OSX
+ - Alpha 006 (December 2016) Windows
 
 ## Whats new in 0.6
 - new operator (math.dot.vec)
@@ -102,17 +103,19 @@ LeapMotion support (only for the 0.321 MAC version)
 - new operator (osc.split)
 - new operator (filter.data)
 - new operator (timeline.number)
-- NOT included because of library error: First Wiimote implementation (very experimental)\
 - osc.port.out now is active by default
 - new maping features included in different operators
-- Pinch for leapmotion
+- Leapmotion (MAC only) Pinch for leapmotion
 
 ## Whats new in 0.627
-- Retrieve local IP (press the shortkey "i")
+- Retrieve local IP (press the shortkey "i") (Mac only)
 - OSC.Port.IN and timeline.number are initalized on start
 - Keep ON is now turned on by default
 - Added a Scrollbar in the operator menu
 - OSC address tracer in the OSC.Port.IN
+
+## Whats new in 0.6272
+- Mouse.input operator
 
 ## Support
 
