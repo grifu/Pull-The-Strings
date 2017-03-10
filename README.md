@@ -38,7 +38,7 @@ Download Pull The Strings:
 
 ## Demo video
 
-[![Pull The Strings example](https://i.vimeocdn.com/video/564533718_130x73.jpg)](https://vimeo.com/grifu/pts-talkinghead)
+[![Pull The Strings example](https://i.vimeocdn.com/video/564533718_295x166.jpg)](https://vimeo.com/grifu/pts-talkinghead)
 
 https://vimeo.com/grifu/pullthestrings-armtrack
 ## License
