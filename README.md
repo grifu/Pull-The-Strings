@@ -26,7 +26,7 @@ Built with [openFrameworks](http://www.openframeworks.cc).
 It is developed by Luís Leite (GRIFU) for the Digital Media PhD with the support of FCT - Fundação para a Ciência e a Tecnologia.
 
 
-![Pull The Strings](https://vimeo.com/grifu/pre-pullthestrings)
+![Pull The Strings](http://www.grifu.com/vm/wp-content/uploads/2016/03/pull.jpg)
 
 
 ## Download
