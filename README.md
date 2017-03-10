@@ -117,6 +117,13 @@ LeapMotion support (only for the 0.321 MAC version)
 ## Whats new in 0.6272
 - Mouse.input operator
 
+## Whats new in 0.6273
+- input.XY operator (2D panel input to control the position of a point in space)
+- Initial support for the Wiimote (very instable, accelerometer, buttons, IR)
+- viewport 3D for visualization purposes, you can track the input points in the 3D space
+- New menu system with the right click based on ofxClickDownMenu
+- A very tiny and simple local network address to retrieve the IP address of the network adapter (press "i")
+
 ## Support
 
 ![Support](http://www.virtualmarionette.grifu.com)
@@ -145,4 +152,4 @@ ofxTimeline
 ofxOsc
 ofxGui
 ofxMSAInteractiveObject
-
+ofxClickDownMenu
