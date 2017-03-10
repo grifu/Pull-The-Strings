@@ -38,8 +38,11 @@ Download Pull The Strings:
 
 ## Demo video
 
+Digital Hand puppet speaking with PTS using the Leap Motion
 [![Pull The Strings example](https://i.vimeocdn.com/video/564533718_295x166.jpg)](https://vimeo.com/grifu/pts-talkinghead)
 
+
+Pull The Strings and Kinect Arm Tracker
 https://vimeo.com/grifu/pullthestrings-armtrack
 ## License
 
