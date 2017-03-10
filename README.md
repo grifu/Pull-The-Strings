@@ -37,9 +37,10 @@ Download Pull The Strings:
 [Windows (32 bits) ]
 
 ## Demo video
+
+[![Pull The Strings example](https://i.vimeocdn.com/video/564533718_130x73.jpg)](https://vimeo.com/grifu/pts-talkinghead)
+
 https://vimeo.com/grifu/pullthestrings-armtrack
-
-
 ## License
 
     Copyright 2012-2016 Luís Leite
